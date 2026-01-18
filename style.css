@@ -1,5 +1,5 @@
 body {
-  background-image: url('/image/il_fullxfull.6205920054_6rxs.avif');
+  background-image: url('./image/il_fullxfull.6205920054_6rxs.avif');
   background-size: cover;
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center;
@@ -47,6 +47,7 @@ button {
 #save-el {
   font-weight: bold;
 }
+
 
 
 
