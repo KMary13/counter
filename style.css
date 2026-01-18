@@ -1,5 +1,5 @@
 body {
-  background-image: image-set(url('./image/image_to_stl.com_il_fullxfull.6205920054_6rxs.webp') type('image/webp'));
+  background-image: url('./image/image_to_stl.com_il_fullxfull.6205920054_6rxs.webp');
   background-size: cover;
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center;
@@ -47,6 +47,7 @@ button {
 #save-el {
   font-weight: bold;
 }
+
 
 
 
